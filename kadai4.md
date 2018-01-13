@@ -13,4 +13,9 @@ pause;
 imhist(ORG); % ヒストグラムの表示
 
 ![原画像](https://github.com/Naokitak/lecture_image_processing1/blob/master/31.png?raw=true)
-図１：ヒストグラム
+図１：画像
+
+
+![原画像](https://github.com/Naokitak/lecture_image_processing1/blob/master/32.png?raw=true)
+
+図2：ヒストグラム
